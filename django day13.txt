@@ -1,0 +1,7 @@
+Create folders inside 'templates' folder.
+
+Create multiple html file in a specific folder
+
+go to app folder and edit views.py
+
+add concerned html files

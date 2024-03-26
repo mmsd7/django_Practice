@@ -1,0 +1,17 @@
+Template
+
+Create Template Folder inside outer project folder (templates)
+
+Add templates folder to settings.py of inner project folder
+Create a directory for templates 
+TEMPLATE_DIR = os.path.join(BASE_DIR, 'templates')
+
+add TEMPLATE_DIR to TEMPLATES variables (in DIRS)
+
+Create template files in template folder
+
+Go to apps folder
+	Edit urls.py file
+		use render instead of HttpResponse
+
+

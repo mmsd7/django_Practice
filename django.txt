@@ -1,0 +1,29 @@
+Use CMD
+mkdir FOLDER NAME
+Navigate ot FOLDER NAME
+
+Create VENV
+Nvigate to ENV->Scripts and activate the VENV
+
+
+Install django to SCRIPTS folder
+
+Back to the Mani Folder
+
+Create Project folder: django-admin startproject studymart
+
+Go to Code Editor
+
+activate the VENV
+
+Navigate to PROJECT Folder
+
+Create an app: python manage.py startapp Machine_Learning
+add the app to settings.py file of inner folder
+
+Go to App folder and create a view
+import HttpResponse
+
+add URL to urls.py file of main project
+
+run for runserver
